@@ -1,1 +1,4 @@
-https://datascience.berkeley.edu/about/what-is-data-science/
+- https://datascience.berkeley.edu/about/what-is-data-science/
+- https://www.edureka.co/blog/what-is-data-science/
+- https://www.cs.us.es/cursos/bd-2014/IntroDataScience.pdf
+- https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf
